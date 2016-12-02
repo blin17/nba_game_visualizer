@@ -4,7 +4,7 @@
 This visualizer preprocesses SportsVU players data using python and then streams it into d3 using github. There are events and frames that are loaded into a viewer and that results in this:
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/13997178/14068661/demo.gif" alt="Demo">
+  <img src="https://raw.githubusercontent.com/blin17/nba_game_visualizer/master/demo.gif" alt="Demo">
 </p>
 
 **DONE**
